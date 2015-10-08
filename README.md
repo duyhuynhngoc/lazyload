@@ -1,5 +1,5 @@
 # lazyload
-Lazyload image and ajax loading
+Lazyload image and ajax loading, using streaming files.
 
 ## Building from master
 Clone the repository
