@@ -14,5 +14,14 @@
     "jquery"
   ],
   "author": "'Duy <'duy.hngoc@gmail.com'>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository" :
+  {
+    "type" : "git",
+    "url" : "git@github.com:duyhuynhngoc/lazyload.git"
+  },
+  "dependencies": {
+    "jquery": "*",
+    "jquery-lazy": "*"
+  }
 }
